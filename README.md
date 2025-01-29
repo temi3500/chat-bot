@@ -15,10 +15,7 @@ A command-line chatbot powered by Google's Gemini AI, written in Go. It provides
 ```sh
 git clone https://github.com/temi3500/chat-bot.git
 cd chat-bot
-```
-# 🧠 GAI Chatbot  
-
-A command-line chatbot powered by Google's Gemini AI, written in Go. It provides a sleek "hacker-style" interface with color effects and animations for a better user experience.  
+```  
 
 ## 🚀 Features  
 - AI-powered responses using Google Gemini API  
