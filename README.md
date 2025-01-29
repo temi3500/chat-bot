@@ -1,5 +1,3 @@
-
-
 ```markdown
 # 🧠 GAI Chatbot  
 
@@ -62,4 +60,3 @@ Created by **Tameem Ahmad Shahzad**
 🔥 **Enjoy chatting with AI in style!**  
 ```
 
-Let me know if you want any modifications! 🚀
